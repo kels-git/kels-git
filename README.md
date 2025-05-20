@@ -2,12 +2,9 @@
 ![MasterHead](https://camo.githubusercontent.com/4cc90ca0e8df53c01ad0726d0e82abe3bb954d48e34c3d2832f526a4725ac900/687474703a2f2f7777772e6b6572656d637562756b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f31312f62616e6e65722e706e67)
 
 <!-- Typing Animation -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=3F3D56&center=true&vCenter=true&multiline=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Osazuwa+Ogie;A+passionate+Web+%26+App+Software+Developer;Based+in+Malaysia" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=3F3D56&center=true&vCenter=true&multiline=true&width=1000&lines=A+passionate+Web+%26+App+Software+Developer;Based+in+Malaysia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFF00&center=true&vCenter=true&multiline=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Osazuwa+Ogie;A+passionate+Web+%26+App+Software+Developer;Based+in+Malaysia" alt="Typing SVG" />
 </p>
 
 
