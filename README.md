@@ -1,11 +1,6 @@
 
-![MasterHead](https://camo.githubusercontent.com/4cc90ca0e8df53c01ad0726d0e82abe3bb954d48e34c3d2832f526a4725ac900/687474703a2f2f7777772e6b6572656d637562756b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f31312f62616e6e65722e706e67)
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc3NDY1MjcsIm5iZiI6MTc0Nzc0NjIyNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIwVDEzMDM0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI0NzcwMDA4Mjc3Nzg5ZGY0Nzg3MDA1MjQwZDQ5ZWRjYjM5MjdiMmZiZjRkYzhjNTg3N2ZhMGNlYzk2NmY3NmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IogV1nsxf2TH5t24zW7ZHhnl_hotrKcNhJg9FomvxhE)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=3500&color=FFFF00&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Osazuwa+Ogie;A+passionate+Web+%26+App+Software+Developer;Based+in+Malaysia" alt="Typing SVG" />
-  </a>
-</
 
 <!-- Typing Animation -->
 <p align="center">
