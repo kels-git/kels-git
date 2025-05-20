@@ -9,9 +9,6 @@
 <!-- Profile Views Counter -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kels-git&label=Profile%20views&color=0e75b6&style=flat" alt="kels-git" /> </p>
 
-<!-- GitHub Trophy -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kels-git&theme=algolia&no-frame=true&row=1&column=7" alt="kels-git" /></a> </p>
-
 <!-- About Me Section -->
 - 🔭 I'm currently working as a **React Native developer**
 
@@ -28,7 +25,7 @@
 <!-- Connect Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oz-o-9983121b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oz-o-9983121b4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kels-ogies-linkup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oz-o-9983121b4" height="30" width="40" /></a>
 </p>
 
 <!-- Technologies I Use Section with Badges -->
