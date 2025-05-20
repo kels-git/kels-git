@@ -1,7 +1,12 @@
-<!-- Profile Header with Banner Image -->
+
+![MasterHead](https://camo.githubusercontent.com/4cc90ca0e8df53c01ad0726d0e82abe3bb954d48e34c3d2832f526a4725ac900/687474703a2f2f7777772e6b6572656d637562756b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f31312f62616e6e65722e706e67)
+
 <p align="center">
-  <img src="https://camo.githubusercontent.com/d6c684e272dfca89e599b25fdee03d847881c72f52af372ef6d577a958a8814e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" alt="MasterHead" width="100%" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=3500&color=FFFF00&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Osazuwa+Ogie;A+passionate+Web+%26+App+Software+Developer;Based+in+Malaysia" alt="Typing SVG" />
+  </a>
+</
+
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
