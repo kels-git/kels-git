@@ -76,10 +76,9 @@
 
 <!--  AI/ML Themed Image Similar to the Original Profile -->
 <div align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" 
+  <img src="https://camo.githubusercontent.com/0855032b964639614d9ae216293450df3891f1290b3042baa643b244181aa26a/68747470733a2f2f617263686976652e666163746f726461696c792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30312f4672726f6c655f4c6561642e676966" 
     alt="AI Technology" 
-    style="width: 90%; max-width: 800px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);"
+    style="width: 90%; height: auto;"
   />
 </div>
 
