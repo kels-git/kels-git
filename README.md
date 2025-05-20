@@ -79,9 +79,10 @@
   <img 
     src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" 
     alt="AI Technology" 
-    style="width: 80%; max-width: 600px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"
+    style="width: 90%; max-width: 800px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);"
   />
 </div>
+
 
 <!-- GitHub Trophies -->
 <h3 align="left">GitHub Trophies:</h3>
