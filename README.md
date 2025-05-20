@@ -78,7 +78,7 @@
 <div align="center">
   <img src="https://camo.githubusercontent.com/0855032b964639614d9ae216293450df3891f1290b3042baa643b244181aa26a/68747470733a2f2f617263686976652e666163746f726461696c792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30312f4672726f6c655f4c6561642e676966" 
     alt="AI Technology" 
-    style="width: 90%; height: auto;"
+    style="width: 100%; height: auto;"
   />
 </div>
 
