@@ -3,8 +3,33 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFF00&center=true&vCenter=true&multiline=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Osazuwa+Ogie;A+passionate+Web+%26+App+Software+Developer;Based+in+Malaysia" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFF00&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Osazuwa+Ogie" alt="Typing SVG" />
+  </a>
 </p>
+
+<p align="center" style="display:none">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFF00&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=A+passionate+Web+%26+App+Software+Developer;Based+in+Malaysia" alt="Second Typing SVG" />
+  </a>
+</p>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const firstText = document.querySelectorAll('p')[0];
+    const secondText = document.querySelectorAll('p')[1];
+    
+    setInterval(function() {
+      if (firstText.style.display === 'none') {
+        firstText.style.display = 'block';
+        secondText.style.display = 'none';
+      } else {
+        firstText.style.display = 'none';
+        secondText.style.display = 'block';
+      }
+    }, 3500);
+  });
+</script>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
