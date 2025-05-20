@@ -4,7 +4,11 @@
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=3F3D56&center=true&vCenter=true&multiline=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Osazuwa+Ogie;A+passionate+Web+%26+App+Software+Developer;Based+in+Malaysia" alt="Typing SVG" />
-</p
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=3F3D56&center=true&vCenter=true&multiline=true&width=1000&lines=A+passionate+Web+%26+App+Software+Developer;Based+in+Malaysia" alt="Typing SVG" />
+</p>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
