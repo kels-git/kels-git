@@ -54,16 +54,7 @@
   <img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
   <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
 </p>
-<!-- Languages and Tools Section with Icons -->
-<!-- Most Used Languages Section -->
-<h3 align="left">My Most Used Languages:</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-32%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=323330" alt="JavaScript 32%"/>
-  <img src="https://img.shields.io/badge/-TypeScript-25%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6&color=323330" alt="TypeScript 25%"/>
-  <img src="https://img.shields.io/badge/-HTML-20%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=323330" alt="HTML 20%"/>
-  <img src="https://img.shields.io/badge/-CSS-15%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&color=323330" alt="CSS 15%"/>
-  <img src="https://img.shields.io/badge/-Java-8%25-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396&color=323330" alt="Java 8%"/>
-</div>
+<!-- Languages and Tools Section with Icons --
 
 <!-- GitHub Stats Cards -->
 <h3 align="left">GitHub Stats:</h3>
@@ -85,7 +76,7 @@
 
 <!--  AI/ML Themed Image Similar to the Original Profile -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kels-git/kels-git/main/assets/ai-brain.png" alt="AI Technology" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" alt="AI Technology" width="100%"/>
 </div>
 
 <!-- GitHub Trophies -->
